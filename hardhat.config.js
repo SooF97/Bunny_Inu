@@ -28,6 +28,11 @@ module.exports = {
       accounts: [process.env.PRIVATE_KEY],
       chainId: 97,
     },
+    bsc: {
+      url: "https://bsc-dataseed.binance.org/",
+      accounts: [process.env.PRIVATE_KEY],
+      chainId: 56,
+    },
   },
   solidity: {
     version: "0.8.18",

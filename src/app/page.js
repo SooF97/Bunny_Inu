@@ -83,12 +83,15 @@ const home = () => {
               Bunny Inu NFT collection
             </h1>
             <h2 className="text-2xl md:text-xl font-bold mt-4 text-center text-gray-900">
-              Bunny Inu NFTs will also be tradable on OpenSea and other NFT
-              platforms so you can always trade them There will more utilities
-              made for Bunny Inu in the near future since we plan to do this
-              longterm. And there will be a lot of benefits from them to our
-              community members that support us through the minting of Bunny Inu
-              NFTs.🔶🐇
+              Bunny Inu NFTs are a reflection of the Bunny Inu spirit. These art
+              pieces have been created to be minted by the Community to show
+              their commitment, support and love for Bunny Inu. The NFT sales
+              will help the community take Bunny Inu to the next level as a
+              memecoin with huge potential.
+            </h2>
+            <h2 className="text-2xl md:text-xl font-bold mt-4 text-center text-gray-900">
+              There will be a lot of benefits from the NFTs to our community
+              members. Airdrops, Exclusive Bunny Inu NFT Club...etc
             </h2>
             <div className="max-w-md mx-auto p-4">
               <ul className="divide-y divide-gray-200">

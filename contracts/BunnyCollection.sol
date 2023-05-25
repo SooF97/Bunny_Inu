@@ -8,8 +8,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract BunnyCollection is ERC721Enumerable, Ownable {
     using Strings for uint256;
     address private contractOwner;
-    address private clientAddress = 0x24C97915Deb980eF086D0011BcfF1F5e9eC837Cc;
-    // real wallet address = 0x127b44a8db238BAF4b3Da73ce05523bf93DE7346
+    address private clientAddress = 0x127b44a8db238BAF4b3Da73ce05523bf93DE7346;
 
     string baseURI =
         "https://ipfs.io/ipfs/QmQi2BKX2Zv8FSTr1GSLnYuGW71eKuD8ZZ9hBpmsJJCESF/metadata_";
